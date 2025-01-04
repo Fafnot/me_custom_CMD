@@ -1,7 +1,7 @@
 @echo off
 
 
-mode con cols=80 lines=35
+
 
 ::: alias 
 doskey ls=dir $*
@@ -15,7 +15,7 @@ title Nonnsweety ^|Custom ^CMD
 
 rem это не я писал код снизу 
 ::: -----------------------------------------------------------------------------------------
-set "folder=D:\Git\new_console"
+set "folder=G:\Git\cmd\me_custom_CMD\basic"
 
 rem === Считываем все .txt файлы в папке и выбираем случайный ===
 set count=0

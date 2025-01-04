@@ -27,6 +27,11 @@
 
 ![Image](image_for_readme/properties_cmd.png)
 
+## :star2: ERROR
+- Надо будет поменять путь в коде так как у каждого пользователья он свой и мой может не подайти вам 
+![Image](image_for_readme/moment.png)
+- Вот тут поменяйте и все будет ок 
+
 ## :star2: Preview
 
 ![Image](image/cmd.png)
